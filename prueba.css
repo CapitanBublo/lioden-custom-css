@@ -50,13 +50,15 @@ h1 {
 	font-size: 28px;
 }
 
-h1::after {
-    background-image: url('https://i.imgur.com/67TOoXK.png');
-    background-size: 200px 200px;
-    display: inline-block;
-    width: 200px; 
-    height: 200px;
-    content:"";
+h1::before {
+    background-image: url(https://i.imgur.com/67TOoXK.png);
+    background-size: 400px;
+    display: block;
+    width: 400px;
+    height: 350px;
+    content: "";
+    margin-left: 25%;
+    margin-bottom: 2%;
 }
 
 h2 {
