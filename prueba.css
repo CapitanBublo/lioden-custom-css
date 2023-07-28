@@ -68,6 +68,7 @@ h1::before {
 
 .art-pfp{
 	background-image:url("https://cdn.discordapp.com/attachments/575031760128311298/1134502833450909847/orlais_comm_without_shading_by_pandatheartistt_dg3yuo8-pre.png");
+	background-size: 400px;
 	width:400px;
 	height:400px;
 	font-family:monospace;
